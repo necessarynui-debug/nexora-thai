@@ -1,0 +1,36 @@
+# NEXORA
+
+> NEXORA เป็นดิจิทัลโปรดักต์สตูดิโอในกรุงเทพฯ ประเทศไทย ให้บริการออกแบบ UX/UI และพัฒนา Web Application สำหรับธุรกิจแบบครบวงจร ตั้งแต่การวางกลยุทธ์ผลิตภัณฑ์ ออกแบบประสบการณ์ผู้ใช้ พัฒนาระบบ ไปจนถึงเปิดใช้งานจริงและดูแลต่อ เหมาะสำหรับ Startup, MVP, SME, Enterprise และงาน Digital Transformation
+
+NEXORA (NEXORA Digital Product Studio) ทำงานเป็นทีมเดียวที่ดูแลทั้งฝั่ง Design และ Development เน้นผลลัพธ์ทางธุรกิจ ความโปร่งใส และส่งมอบครบ (Source code, Design file, Documentation)
+
+## บริการหลัก (Services)
+- **Product Strategy**: วิเคราะห์เป้าหมายธุรกิจ ผู้ใช้งาน และขอบเขต MVP, Discovery Workshop, User Flow, Product Roadmap
+- **UX/UI Design**: Wireframe & Prototype, Interface & Design System, Usability Testing
+- **Web Development**: Responsive Web App, Frontend/Backend, Database & API Integration, QA, Security & Deployment
+- **Growth & Support**: Analytics & Monitoring, Maintenance & SLA, Continuous Improvement
+
+## ประเภทระบบที่พัฒนา
+Business Platform (ERP, CRM, Workflow, Dashboard), Customer Portal, Marketplace & Commerce, SaaS & MVP
+
+## อุตสาหกรรมที่รองรับ
+ค้าปลีก/อีคอมเมิร์ซ, โรงแรม/ร้านอาหาร/ท่องเที่ยว, อสังหาริมทรัพย์, สุขภาพ/คลินิก, การศึกษา/ฝึกอบรม, สื่อ/อีเวนต์, การเงิน/ประกัน/FinTech, บริการวิชาชีพ/องค์กร, Startup/SaaS, โรงงาน/การผลิต, โลจิสติกส์/คลังสินค้า, ภาครัฐ/องค์กรไม่แสวงกำไร
+
+## กระบวนการทำงาน
+1. Discover & Define (1–2 สัปดาห์) — สรุป Scope และ Roadmap
+2. UX & UI Design (2–4 สัปดาห์) — Prototype และ Design system
+3. Build & Validate (4–12 สัปดาห์) — พัฒนาเป็น Sprint จนได้ระบบพร้อมใช้งาน
+4. Launch & Improve (ต่อเนื่อง) — Deploy, ส่งมอบ, ติดตามผล
+
+## ระยะเวลาและงบประมาณ
+- MVP โดยทั่วไป 8–12 สัปดาห์; ระบบหลายโมดูล 3–6 เดือน
+- ประเมินงบตามขอบเขต ความซับซ้อน และระยะเวลา เสนอเป็นระยะงานพร้อมสิ่งส่งมอบ
+- เริ่มจากไอเดียที่ยังไม่มี Requirement ได้ ผ่าน Discovery Workshop
+- มีบริการดูแลหลังเปิดใช้งาน (รับประกัน + Maintenance รายเดือน)
+
+## ติดต่อ (Contact)
+- เว็บไซต์: https://www.nexora-thai.com
+- อีเมล: hello@nexora-thai.com
+- โทร: +66 84 680 3429
+- LINE Official Account: @ksr8988a
+- ที่ตั้ง: กรุงเทพมหานคร ประเทศไทย
